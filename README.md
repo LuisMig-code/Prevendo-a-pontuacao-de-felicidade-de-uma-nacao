@@ -1,4 +1,4 @@
-# Prevendo-a-pntuacao-de-felicidade-de-uma-nacao
+# Prevendo-a-pontuacao-de-felicidade-de-uma-nacao
 
 <p>Neste Projeto foi criado um Modelo de ML (Regressão) a fim de medir a pontuação de felicidade de um país baseado em determinadas características sociais e econômicas</p>
 
